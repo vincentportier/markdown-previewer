@@ -1,10 +1,9 @@
 .app__editor {
-  display: inline-block;
-  height: 500px;
+  flex: 1;
+  width: 100%;
 }
 
 .editor__header {
-  width: 676px;
   background: #45b69c;
   color: white;
   font-size: 20px;
@@ -13,7 +12,7 @@
 }
 
 .editor__text {
-  min-width: 700px;
+  width: 99.5%;
   height: 100%;
   resize: vertical;
   overflow-y: auto;

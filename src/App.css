@@ -3,6 +3,7 @@
   background-color: #fbfbfb;
   font-family: sans-serif;
   padding: 10px;
+  display: flex;
 }
 
 pre {
